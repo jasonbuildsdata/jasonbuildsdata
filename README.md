@@ -1,7 +1,24 @@
-Welcome to my GitHub page! I'm Jason Scott, and in early 2024 I completed a Master of Science in Data Science. During my studies I focused heavily on analytics and machine learning. I then gained experience as a Business Intelligence Analyst at a fortune 250 company. Much of my time there was spent on custom SQL queries for ad hoc reporting and dashboard design. Presently I'm working on a cloud computing project and stacking AWS certs.
+# Hi, I'm Jason Scott
 
-What you may find here on my GitHub page are: projects that I've worked on during the course of my graduate studies, and some personal projects that I'm currently working on.
+I am an aspiring cloud computing professional with a Master of Science in Data Science and professional experience in business intelligence, SQL reporting, and dashboard design.
 
-While most of this page is continuously being designed to showcase my knowledge and skills as an analyst, you may also find some AI projects as I have a passion for machine learning as well.
+I am currently building practical cloud and infrastructure skills through hands-on projects and AWS certification study. My current focus is a cloud infrastructure monitoring and observability platform using Ubuntu, VMware Fusion, LibreNMS, InfluxDB, Grafana, and SNMP-simulated device telemetry.
 
-If you would like to contact me, you may reach me at: jason.scott3024@gmail.com
+## Focus Areas
+
+- Cloud computing and AWS
+- Infrastructure monitoring and observability
+- Virtualization and networking
+- SQL, analytics, and dashboard design
+- Technical documentation and troubleshooting
+
+## Featured Work
+
+- **Cloud Infrastructure Monitoring & Observability Platform** — an in-progress end-to-end monitoring pipeline for simulated APC UPS and environmental telemetry using LibreNMS, InfluxDB, and Grafana.
+- **Time Series Analysis** — an R-based project exploring time-series analysis and forecasting.
+
+## Connect
+
+- LinkedIn: www.linkedin.com/in/jason-scott-ms-b2264531
+- Email: jason.scott3024@gmail.com
+
