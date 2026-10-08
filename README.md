@@ -1,6 +1,6 @@
 # Hi, I'm Jason Scott
 
-I am an aspiring cloud computing professional with a Master of Science in Data Science and professional experience in business intelligence, SQL reporting, and dashboard design.
+I am a data analyst and an aspiring cloud computing professional with a Master of Science in Data Science and professional experience in business intelligence, SQL reporting, and dashboard design.
 
 I am currently building practical cloud and infrastructure skills through hands-on projects and AWS certification study. My current focus is a cloud infrastructure monitoring and observability platform using Ubuntu, VMware Fusion, LibreNMS, InfluxDB, Grafana, and SNMP-simulated device telemetry.
 
@@ -20,5 +20,3 @@ I am currently building practical cloud and infrastructure skills through hands-
 ## Connect
 
 - LinkedIn: www.linkedin.com/in/jason-scott-ms-b2264531
-- Email: jason.scott3024@gmail.com
-
